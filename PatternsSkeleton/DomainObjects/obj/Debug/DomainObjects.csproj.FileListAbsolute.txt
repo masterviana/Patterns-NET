@@ -1,0 +1,6 @@
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\bin\Debug\DomainObjects.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\bin\Debug\DomainObjects.pdb
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\obj\Debug\DomainObjects.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\obj\Debug\DomainObjects.pdb
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\bin\Debug\StructureMap.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\DomainObjects\bin\Debug\StructureMap.xml

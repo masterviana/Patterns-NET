@@ -1,0 +1,11 @@
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\obj\Debug\StructureMapConfigure.csprojResolveAssemblyReference.cache
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\Dlls\StructureMap.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\Dlls\StructureMap.xml
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\StructureMapConfigure.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\StructureMapConfigure.pdb
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\DomainObjects.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\StructureMap.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\DomainObjects.pdb
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\bin\Debug\StructureMap.xml
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\obj\Debug\StructureMapConfigure.dll
+c:\Users\vviana.BI4ALL\Documents\Visual Studio 2012\Projects\PatternsSkeleton\StructureMapConfigure\obj\Debug\StructureMapConfigure.pdb

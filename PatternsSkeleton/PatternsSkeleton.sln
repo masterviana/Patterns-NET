@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainObjects", "DomainObjects\DomainObjects.csproj", "{01B1F8BD-1515-4D1C-B1C7-0F31344E91B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningConsole", "RunningConsole\RunningConsole.csproj", "{AE320B33-F20C-4044-8189-5183F9F50D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapConfigure", "StructureMapConfigure\StructureMapConfigure.csproj", "{421D641E-C86C-4AE6-AA73-1E27B06D4B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B1F8BD-1515-4D1C-B1C7-0F31344E91B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B1F8BD-1515-4D1C-B1C7-0F31344E91B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B1F8BD-1515-4D1C-B1C7-0F31344E91B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B1F8BD-1515-4D1C-B1C7-0F31344E91B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE320B33-F20C-4044-8189-5183F9F50D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE320B33-F20C-4044-8189-5183F9F50D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE320B33-F20C-4044-8189-5183F9F50D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE320B33-F20C-4044-8189-5183F9F50D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421D641E-C86C-4AE6-AA73-1E27B06D4B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421D641E-C86C-4AE6-AA73-1E27B06D4B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421D641E-C86C-4AE6-AA73-1E27B06D4B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421D641E-C86C-4AE6-AA73-1E27B06D4B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
